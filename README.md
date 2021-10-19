@@ -15,5 +15,5 @@ node video.js [start] [end]
 
 ## Coisas a melhorar
 
-- [] Usar lib junto com npm, para trazer via package
-- [] Melhorar forma de busca de arquivos (trazer arquivos por nome, e não apenas número)
+- [ ] Usar lib junto com npm, para trazer via package
+- [ ] Melhorar forma de busca de arquivos (trazer arquivos por nome, e não apenas número)
